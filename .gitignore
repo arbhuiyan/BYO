@@ -1,0 +1,31 @@
+.DS_Store
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# IDE - VSCode
+.vscode/
+
+# IDE - JetBrains
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Build outputs
+/dist
+/build
+/out
+
+# Logs
+*.log
+npm-debug.log*
+
+# Others
+*.swp
+*.swo
+*.tmp
+*.sass-cache
